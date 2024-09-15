@@ -16,7 +16,6 @@ git clone https://github.com/your-username/notes-taking-app.git
 2. Navigate to the project directory:
 
 ```bash
-Copy code
 cd notes-taking-app
 ```
 
