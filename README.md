@@ -9,23 +9,27 @@ The primary goal of this project is to demonstrate how note-taking functionality
 # How to Run the Project
 1. Clone the repository:
 
-bash
-Copy code
+```bash
 git clone https://github.com/your-username/notes-taking-app.git
+```
+
 2. Navigate to the project directory:
 
-bash
+```bash
 Copy code
 cd notes-taking-app
+```
+
 3. Install dependencies:
 
-bash
-Copy code
+```bash
 npm install
+```
+
 4. Start the server:
 
-bash
-Copy code
-node app.js
+```bash
+npm run start
+```
 
 Visit the application at http://localhost:3000 to start using the notes app.
